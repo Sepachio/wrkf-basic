@@ -49,11 +49,17 @@
 
         },
         "AUTH_USERS": {
+            
+            "description": "Your API_HASH from https://my.telegram.org/apps"
             "value": "5123176772"
+        
         },
         
         "GROUPS": {
+            
+            "description": "Your API_HASH from https://my.telegram.org/apps"
             "value": "5123176772"
+        
         }
 
     },
