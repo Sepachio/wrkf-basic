@@ -32,12 +32,14 @@
         "BOT_TOKEN": {
 
             "description": "Your Bot token from @Botfather"
+            "value": "5481058188:AAER9CEsDAQEnT5ffzq2o53G6pLjYh_HAvE"
 
         },
 
         "API_ID": {
 
             "description": "Your API_ID from https://my.telegram.org/apps"
+           
 
         },
 
@@ -45,6 +47,13 @@
 
             "description": "Your API_HASH from https://my.telegram.org/apps"
 
+        },
+        "AUTH_USERS": {
+            "value": "5123176772"
+        },
+        
+        "GROUPS": {
+            "value": "5123176772"
         }
 
     },
